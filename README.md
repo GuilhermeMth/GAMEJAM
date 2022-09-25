@@ -1,4 +1,4 @@
-# empty - GameJam
+# Jogo empty - GameJam
 
 empty é um jogo de RPG desenvolvido pela escola técnica estadual Jurandir Bezerra Lins (ETEJBL) para o GAMEJAM
 
